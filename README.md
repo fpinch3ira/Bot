@@ -1,2 +1,0 @@
-# Bot
-Testing first bot
